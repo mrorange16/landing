@@ -499,6 +499,8 @@ fieldset[disabled] .btn-default.active {
 .btn-xl {
     padding: 15px 30px;
     font-size: 20px;
+	    background-color: #337ab7;
+    color: rgba(245,245,245,0.7);
 }
 
 ::-moz-selection {
